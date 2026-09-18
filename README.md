@@ -1,6 +1,6 @@
 # velvq
 
-> C# developer · student · Linux user
+> C# developer · Linux user
 
 I build small tools, bots, plugins and other
 things that seem useful enough to exist.
@@ -34,7 +34,7 @@ Small C# console RPG.
 ## Links
 
 [Website](https://velvetwhyme.dev) ·
-[Telegram](https://t.me/vevlq) ·
+[Telegram](https://t.me/velvq) ·
 [Discord](...)
 
 ---
