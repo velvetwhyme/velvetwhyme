@@ -1,16 +1,42 @@
-## Hi there 👋
+# velvq
 
-<!--
-**velvetwhyme/velvetwhyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> C# developer · student · Linux user
 
-Here are some ideas to get you started:
+I build small tools, bots, plugins and other
+things that seem useful enough to exist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- C# / .NET
+- PHP
+- HTML / JavaScript
+- Linux
+- MySQL
+
+## Projects
+
+### MessageArchive
+Linux notification archive built with C# and JSON.
+
+→ [Repository](...)
+
+### Waterfalls
+Small C# console RPG.
+
+→ [Repository](...)
+
+## Currently
+
+- Learning backend development
+- Working on MessageArchive
+- Building plugins for ExteraGram
+
+## Links
+
+[Website](https://velvetwhyme.dev) ·
+[Telegram](https://t.me/vevlq) ·
+[Discord](...)
+
+---
+
+<sub>More projects and information → [velvetwhyme.dev](https://velvetwhyme.dev)</sub>
