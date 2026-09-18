@@ -8,10 +8,8 @@ things that seem useful enough to exist.
 ## Stack
 
 - C# / .NET
-- PHP
 - HTML / JavaScript
 - Linux
-- MySQL
 
 ## Projects
 
