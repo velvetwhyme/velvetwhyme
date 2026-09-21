@@ -14,14 +14,7 @@ things that seem useful enough to exist.
 ## Projects
 
 ### MessageArchive
-Linux notification archive built with C# and JSON.
-
-→ [Repository](...)
-
-### Waterfalls
-Small C# console RPG.
-
-→ [Repository](...)
+Coming soon.
 
 ## Currently
 
@@ -33,8 +26,8 @@ Small C# console RPG.
 
 [Website](https://velvetwhyme.dev) ·
 [Telegram](https://t.me/velvq) ·
-[Discord](...)
+[Discord](https://discord.com/users/793088754653986816)
 
 ---
 
-<sub>More projects and information → [velvetwhyme.dev](https://velvetwhyme.dev)</sub>
+<sub>More projects and information → Informational website under development</sub>
