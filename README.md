@@ -17,8 +17,8 @@ that seem useful enough to exist.
 
 ## Projects
 
-### MessageArchive
-Coming soon.
+### [MessageArchive](https://github.com/velvetwhyme/MessageArchive)
+Small Linux notification archiver written in C#.
 
 ## Currently
 
