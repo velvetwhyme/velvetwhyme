@@ -1,35 +1,51 @@
-<div align="center">
+ <div align="center">
 
 # velvetwhyme
-
-**C# developer · Linux user**
-
-I build small tools, bots, plugins and other things
-that seem useful enough to exist.
 
 </div>
 
 ---
 
-## Stack
+## Технологии
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,js,linux" alt="C#, .NET, HTML, JavaScript, Linux" />
+**Основные**
 
-## Projects
+<img src="https://skillicons.dev/icons?i=cpp,linux,git" alt="C++, Linux, Git" />
+
+**Знаком с**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#, .NET" />
+
+**Изучаю**
+
+<img src="https://skillicons.dev/icons?i=html,php" alt="HTML, PHP" />
+
+**Интересуюсь**
+
+<img src="https://skillicons.dev/icons?i=kotlin,rust" alt="Kotlin, Rust" />
+
+## Проекты
 
 ### [MessageArchive](https://github.com/velvetwhyme/MessageArchive)
-Small Linux notification archiver written in C#.
 
-## Currently
+Архиватор системных уведомлений для Linux, написанный на C# и .NET.
 
-- Learning backend development
-- Working on **MessageArchive**
-- Building plugins for **ExteraGram**
+### [desklink](https://github.com/velvetwhyme/desktop-shortcut-cli)
 
-## Links
+Консольная утилита для управления ярлыками приложений в Linux.
 
-[Website](website under development) · [Telegram](https://t.me/velvq) · [Discord](https://discord.com/users/793088754653986816)
+## Сейчас
+
+- Изучаю backend-разработку.
+- Осваиваю веб-разработку.
+- Экспериментирую с программами и инструментами для Linux.
+
+## Контакты
+
+[Telegram](https://t.me/velvq) · [Discord](https://discord.com/users/793088754653986816)
+
+**Русский — предпочтительный язык общения. English messages are also welcome!**
 
 ---
 
-<sub>More projects and information → website under development</sub>
+<sub>изучаю, экспериментирую.</sub>
